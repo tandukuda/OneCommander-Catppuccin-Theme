@@ -30,7 +30,7 @@ To find the root folder
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/Abod1960/One-Commander-Dev-Theme/blob/main/LICENSE) license.
+This project is licensed under the [MIT](https://github.com/tandukuda/OneCommander-Catppuccin-Theme/blob/main/LICENSE) license.
 
 ## Acknowledgments
 
